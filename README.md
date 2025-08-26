@@ -36,4 +36,4 @@ Feel free to use this dataset for your research purposes. If you have any questi
 
 ## License
 
-This dataset is provided for research purposes. Please cite the associated papers if you use this dataset in your work.
+This dataset is licensed under the GNU General Public License (GPL). You are free to use, modify, and distribute this dataset, provided that you adhere to the terms of the GPL. Please cite the associated papers if you use this dataset in your work.

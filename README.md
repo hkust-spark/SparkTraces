@@ -10,7 +10,7 @@ The dataset includes traces that are formatted as follows:
   `timestamp(s) bandwidth(Mbps)`
 
 - **Hairpin Traces Format**:
-  `timestamp(s) bandwidth(Mbps) RTT(ms) Loss rate`
+  `timestamp(s) bandwidth(Mbps) RTT(ms) Loss_rate`
 
 ### Papers Referenced
 
